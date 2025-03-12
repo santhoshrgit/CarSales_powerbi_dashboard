@@ -18,9 +18,7 @@ This repository contains a dataset of **car sales in India for the year 2024**. 
 - **File Name:** `Car Sales in India - 2024 (Unpivot Version).xlsx`
 - **Format:** Excel (`.xlsx`)
 - **Data Type:** Unpivoted (Long format for easier analysis)
-- **Download Dataset:** 📂 [Car Sales in India - 2024.xlsx] (https://github.com/santhoshrgit/CarSales_powerbi_dashboard/D:\Downloads\DA\CAR SALES.xlsx)**
 
-   
 ## 📈 Potential Analysis Ideas
 Identify top-selling car brands in India
 Analyze monthly sales trends
