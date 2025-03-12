@@ -20,10 +20,10 @@ This repository contains a dataset of **car sales in India for the year 2024**. 
 - **Data Type:** Unpivoted (Long format for easier analysis)
 
 ## 📈 Potential Analysis Ideas
-Identify top-selling car brands in India
-Analyze monthly sales trends
-Forecast future sales using machine learning
-Compare market share of different manufacturers
+Identify top-selling car brands in India, 
+Analyze monthly sales trends, 
+Forecast future sales using machine learning, 
+Compare market share of different manufacturers.
 
 
 ## 🤝 Contributing
