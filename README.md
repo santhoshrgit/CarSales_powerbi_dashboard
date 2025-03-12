@@ -1,6 +1,6 @@
 # 🚗 Car Sales in India - 2024 (Unpivoted Version)
 
-This repository contains a dataset of **car sales in India for the year 2024**. The data is structured in an **unpivoted format**, making it easy to analyze trends, perform data visualization, and use in data science projects.
+This repository contains a dataset of **car sales in India for the year 2024**. The data is structured in an **unpivoted format**, making it easy to analyze trends, perform data visualization, and use in data Analytics projects.
 
 ## 📂 Dataset Overview
 - **File Name:** `Car Sales in India - 2024 (Unpivot Version).xlsx`
