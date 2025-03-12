@@ -14,16 +14,18 @@ This repository contains a dataset of **car sales in India for the year 2024**. 
 ✅ Suitable for **Python (Pandas), SQL, Excel, and Power BI**  
 ✅ Can be used for **trend analysis, forecasting, and business insights**  
 
-## 🔧 How to Use
-1. **Download the dataset** or clone the repository:
-   ```bash
-   git clone https://github.com/santhoshrgit/car-sales-india-2024.git
+## 📂 Dataset Overview
+- **File Name:** `Car Sales in India - 2024 (Unpivot Version).xlsx`
+- **Format:** Excel (`.xlsx`)
+- **Data Type:** Unpivoted (Long format for easier analysis)
+- **Download Dataset:** 📂 [Car Sales in India - 2024.xlsx](https://github.com/yourusername/repositoryname/raw/main/Car%20Sales%20in%20India%20-%202024%20(Unpivot%20Version).xlsx)
+
    
 ## 📈 Potential Analysis Ideas
-✅Identify top-selling car brands in India
-✅Analyze monthly sales trends
-✅Forecast future sales using machine learning
-✅Compare market share of different manufacturers
+Identify top-selling car brands in India
+Analyze monthly sales trends
+Forecast future sales using machine learning
+Compare market share of different manufacturers
 
 
 ## 🤝 Contributing
