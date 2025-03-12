@@ -18,7 +18,7 @@ This repository contains a dataset of **car sales in India for the year 2024**. 
 - **File Name:** `Car Sales in India - 2024 (Unpivot Version).xlsx`
 - **Format:** Excel (`.xlsx`)
 - **Data Type:** Unpivoted (Long format for easier analysis)
-- **Download Dataset:** 📂 [Car Sales in India - 2024.xlsx](https://github.com/yourusername/repositoryname/raw/main/Car%20Sales%20in%20India%20-%202024%20(Unpivot%20Version).xlsx)
+- **Download Dataset:** 📂 [Car Sales in India - 2024.xlsx] D:\Downloads\DA\CAR SALES
 
    
 ## 📈 Potential Analysis Ideas
